@@ -73,14 +73,16 @@
     font-family: sans-serif;
     font-size: 25px;         
 } 
-foo-det{
+.foo-det{
     background-color: dimgray;
     
 }
-foo-det p{
-   color: #fff;
+.foo-det p{
+    color: #fff;
     font-family: sans-serif;
     font-size: 16px;
+    height: 100px;
+    padding-top: 20px;
     
 }
     
